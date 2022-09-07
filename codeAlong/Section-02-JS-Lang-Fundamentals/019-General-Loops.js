@@ -20,7 +20,7 @@
 
 // while(i < 10){
 //   console.log('Number ' + i);
-//   i++;
+//   i++; 
 // }
 
 //// DO WHILE ////

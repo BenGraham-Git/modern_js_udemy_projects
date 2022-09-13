@@ -24,8 +24,8 @@ taskInput.value = '';
 // taskInput.addEventListener('paste', runEvent);
 // // Input
 // taskInput.addEventListener('input', runEvent);
-// Change
-select.addEventListener('change', runEvent);
+// // Change
+// select.addEventListener('change', runEvent);
 
 
 function runEvent(e){
